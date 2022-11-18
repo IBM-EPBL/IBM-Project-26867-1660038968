@@ -3,7 +3,7 @@ A Novel Method for Handwritten Digit Recognition System
 
 Team Members :
 
-Sneha Vijaykumar
-Tharanies S
-Sathish Kumar S
-Sanjay S
+1.Sneha Vijaykumar
+2.Tharanies S
+3.Sathish Kumar S
+4.Sanjay S
